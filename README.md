@@ -2,4 +2,4 @@ Todos están completos menos el apartado de Universidade que hice hasta el ejerc
 En respecto al aprendizaje ahora dominó mejor el funcionamiento de las consultas xPath pero todavía me falta algo más de practica.
 
 ACTUALIZACIÓN:
-No entregué los ejercicios el jueves 1 de Febrero de XSD y DTD pero aquí están
+No entregué los ejercicios el jueves 1 de Febrero de XSD y DTD pero aquí están hoy 2 de Febrero
