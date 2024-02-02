@@ -7,27 +7,27 @@
         <entrenador>Roger Grimau</entrenador>
         <jugadores>
             <jugador posicion = "Pivot">
-                <nombre>Juan<nombre>
-                <nacionalidad>Español</nacionalidad>
+                <nombre>Maciej Lampe<nombre>
+                <nacionalidad>Polonia</nacionalidad>
             </jugador>
             <jugador posicion = "Base">
-                <nombre>Vladimir</nombre>
-                <nacionalidad>Ruso</nacionalidad>
+                <nombre>Victor</nombre>
+                <nacionalidad>España</nacionalidad>
             </jugador>
         </jugadores>
     </equipo>
     
     <equipo>
-        <nombre>Celtics de Boston</nombre>
-        <ciudad>Boston</ciudad>
-        <entrenador>Joe Mazzulla</entrenador>
+        <nombre>Charlotte. Hornets</nombre>
+        <ciudad>Charlotte</ciudad>
+        <entrenador>Steve Clifford</entrenador>
         <jugadores>
-            <jugador posicion = "Escolta">
-                <nombre>Svi Myhailiuk</nombre>
+            <jugador posicion = "Ala-Pivots">
+                <nombre>P.J. Washington</nombre>
                 <nacionalidad>Estadounidense</nacionalidad>
             </jugador>
-            <jugador posicion = "Base">
-                <nombre>Payton Pritchard</nombre>
+            <jugador posicion = "Escolta">
+                <nombre>Cody Martin</nombre>
                 <nacionalidad>Estadounidense</nacionalidad>
             </jugador>
         </jugadores>
