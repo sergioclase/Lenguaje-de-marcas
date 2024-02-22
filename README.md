@@ -1,5 +1,2 @@
-Todos están completos menos el apartado de Universidade que hice hasta el ejercicio 16 incluido, tuve ciertas dudas en algunas pero mayormente deberian estar correctas.
-En respecto al aprendizaje ahora dominó mejor el funcionamiento de las consultas xPath pero todavía me falta algo más de practica.
-
-ACTUALIZACIÓN:
-No entregué los ejercicios el jueves 1 de Febrero de XSD y DTD pero aquí están hoy 2 de Febrero
+Están todas realizadas menos en el ejercicio de tutoriales el apartado 7 no lo completé
+En base a la dificultad es diferente a XPath con la sintaxis más compleja y dificil de entender
